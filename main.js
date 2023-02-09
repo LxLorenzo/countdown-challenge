@@ -1,4 +1,4 @@
-const date = new Date("Jul 09, 2022 00:00").getTime();
+const date = new Date("Jul 09, 2023 00:00").getTime();
 
 var timer = setInterval(function() {
 	const now = new Date().getTime();
